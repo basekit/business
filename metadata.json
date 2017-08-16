@@ -1,7 +1,7 @@
 {
-    "name": "Invest",
+    "name": "Business",
     "thumbnail": "thumbnail.png",
-    "screenshot": "invest-screenshot.jpg",
+    "screenshot": "business-screenshot.jpg",
     "widgetVersion":2,
     "pageTypes": ["home"],
     "templateType":"standard",

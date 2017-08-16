@@ -1,2 +1,2 @@
-# sky-template
+# business
 Amazon Japanese Template
